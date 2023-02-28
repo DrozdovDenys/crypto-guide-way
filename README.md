@@ -16,4 +16,4 @@ page based on a layout developed by a web designer.
 + Photoshop
 + Adaptive
 
-<h3 align="center"><a href="https://drozdovdenys.github.io/crypto-guide-way/">SEE LIVE</a></he>
+<h3 align="center"><a href="https://drozdovdenys.github.io/crypto-guide-way/">SEE LIVE</a></h3>
