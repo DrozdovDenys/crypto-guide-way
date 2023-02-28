@@ -1,4 +1,4 @@
-<h1 align="center">Crypto Guide Way</h1>
+<h1 align="center">«Crypto Guide Way»</h1>
 
 <div align="center"><img src="/img/readme.jpg"/></div>
 
